@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anupam121/WeatherApi/static/css/main.74c97d94.css",
+    "main.js": "/anupam121/WeatherApi/static/js/main.530810fa.js",
+    "static/js/787.4fcd6212.chunk.js": "/anupam121/WeatherApi/static/js/787.4fcd6212.chunk.js",
+    "static/media/wallp.jpg": "/anupam121/WeatherApi/static/media/wallp.5716f1e85a1df2ae409a.jpg",
+    "static/media/cardpic.jpg": "/anupam121/WeatherApi/static/media/cardpic.51ef6960e9db4bfe3527.jpg",
+    "index.html": "/anupam121/WeatherApi/index.html",
+    "main.74c97d94.css.map": "/anupam121/WeatherApi/static/css/main.74c97d94.css.map",
+    "main.530810fa.js.map": "/anupam121/WeatherApi/static/js/main.530810fa.js.map",
+    "787.4fcd6212.chunk.js.map": "/anupam121/WeatherApi/static/js/787.4fcd6212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c97d94.css",
+    "static/js/main.530810fa.js"
+  ]
+}
